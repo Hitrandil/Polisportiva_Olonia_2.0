@@ -16,6 +16,7 @@
 .img-article {
     float: left;
     margin-right: 10px;
+    border-radius: 4px;
 }
 
 .title-article {
@@ -29,6 +30,7 @@
     text-align: justify;
     font-size: 18px;
     padding-right: 2em;
+    padding-left: 2em;
 }
 
 .autore {
