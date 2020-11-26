@@ -13,6 +13,18 @@
     text-align: right;
 }
 
+.img-article {
+    float: left;
+    margin-right: 10px;
+}
+
+.title-article {
+    padding-bottom: 1em;
+    padding-top: 1em;
+    font-weight: bold;
+    text-align: center;
+}
+
 .p-article {
     text-align: justify;
     font-size: 18px;
@@ -21,10 +33,6 @@
 
 .autore {
     font-family: 'Roboto', sans-serif;
-}
-
-.navBox {
-    /* padding-left: 1em; */
 }
 
 A:LINK {
