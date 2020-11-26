@@ -1,0 +1,48 @@
+.navItem {
+    color: #262626;
+    font-size: 18px;
+    padding: 2em 0em 0em 4em;
+}
+
+.shadow-article {
+    box-shadow: -5px -5px 10px rgb(167, 166, 166);
+}
+
+.p-articles-badges {
+    padding: 2em 1em 0.5em 0em;
+    text-align: right;
+}
+
+.p-article {
+    text-align: justify;
+    font-size: 18px;
+    padding-right: 2em;
+}
+
+.autore {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navBox {
+    /* padding-left: 1em; */
+}
+
+A:LINK {
+    color: #262626;
+    text-decoration: none;
+}
+
+A:VISITED {
+    color: #262626;
+    text-decoration: none;
+}
+
+A:HOVER {
+    color: #226e41;
+    text-decoration: underline;
+}
+
+A:ACTIVE {
+    color: #226e41;
+    text-decoration: underline;
+}
