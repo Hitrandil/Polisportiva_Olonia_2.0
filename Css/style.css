@@ -34,25 +34,25 @@
 }
 
 .autore {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
-A:LINK {
+A:link {
     color: #262626;
     text-decoration: none;
 }
 
-A:VISITED {
+A:visited {
     color: #262626;
     text-decoration: none;
 }
 
-A:HOVER {
+A:hover {
     color: #226e41;
     text-decoration: underline;
 }
 
-A:ACTIVE {
+A:active {
     color: #226e41;
     text-decoration: underline;
 }
